@@ -3,7 +3,7 @@
       {
         "nombre": "Infinite Yield",
         "juegofecha": "Universal · 16/5/2022",
-        "descarga": "/InfiniteYield",
+        "descarga": "/Scripts/InfiniteYield",
         "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972186796400209930/unknown.png",
         "features": "Te permite ejecutar muchisimos comandos, como fly, etc!",
         "txt": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
@@ -18,7 +18,7 @@
       {
         "nombre": "Dark Hub",
         "juegofecha": "Universal · 16/5/2022",
-        "descarga": "/Darkhub",
+        "descarga": "/Scripts/Darkhub",
         "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972186714196033546/unknown.png",
         "features": "Aimbot + Esp!",
         "txt": "https://darkhub.xyz/remote-script.lua",
@@ -32,7 +32,7 @@
       {
         "nombre": "Owl Hub",
         "juegofecha": "Universal · 16/5/2022",
-        "descarga": "/OwlHub",
+        "descarga": "/Scripts/OwlHub",
         "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972187099723857950/unknown.png",
         "features": "Aimbot + Esp!",
         "txt": "https://y2k06.xyz/scripts/OwlHub.txt",
@@ -46,7 +46,7 @@
       {
         "nombre": "Autorob",
         "juegofecha": "Jailbreak · 16/5/2022",
-        "descarga": "/JailbreakAutorob",
+        "descarga": "/Scripts/JailbreakAutorob",
         "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972358115515314207/unknown.png",
         "features": "Autorob muy efectivo para Jailbreak!",
         "txt": "https://raw.githubusercontent.com/wawsdasdacx/ohascriptnrrewading/main/jbsaxcriptidk1",
@@ -60,7 +60,7 @@
       {
         "nombre": "Faze Ware",
         "juegofecha": "Da Hood · 16/5/2022",
-        "descarga": "/FazeWare",
+        "descarga": "/Scripts/FazeWare",
         "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972566089236095016/unknown.png",
         "features": "imlock y mucho más para Da Hood!",
         "txt": "https://cdn.y2k06.xyz/lua/FazeWare.lua",
@@ -74,7 +74,7 @@
       {
         "nombre": "Up Right Hub",
         "juegofecha": "Build A Boat · 16/5/2022",
-        "descarga": "/UpRightHub",
+        "descarga": "/Scripts/UpRightHub",
         "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972566680414871623/unknown.png",
         "features": "Autofarm y varias opciones!",
         "txt": "https://cdn.y2k06.xyz/lua/UpRightHub.lua",
@@ -88,7 +88,7 @@
       {
         "nombre": "IceHub",
         "juegofecha": "Brookhaven · 18/5/2022",
-        "descarga": "/IceHub",
+        "descarga": "/Scripts/IceHub",
         "mini": "https://cdn.discordapp.com/attachments/882941526068564028/972569267725811752/unknown.png",
         "features": "Diviertete molestando a los jugadores!",
         "txt": "https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven",
@@ -102,7 +102,7 @@
       {
         "nombre": "Flooded v2",
         "juegofecha": "Flood Escape Clasic · 18/5/2022",
-        "descarga": "/Floodedv2",
+        "descarga": "/Scripts/Floodedv2",
         "mini": "https://cdn.discordapp.com/attachments/882941526068564028/972570293178601522/unknown.png",
         "features": "Autofarm y poco más!",
         "txt": "https://cdn.y2k06.xyz/lua/FloodedV2.lua",
@@ -116,7 +116,7 @@
       {
         "nombre": "CheeseyHubV6",
         "juegofecha": "Universal · 18/5/2022",
-        "descarga": "/CheeseyHubV6",
+        "descarga": "/Scripts/CheeseyHubV6",
         "mini": "https://cdn.discordapp.com/attachments/882941526068564028/972570568127836190/unknown.png",
         "features": "Script que sirve para varios juegos!",
         "txt": "https://raw.githubusercontent.com/CheeseyMine/CheeseyHub/main/CheeseyHubV6",
