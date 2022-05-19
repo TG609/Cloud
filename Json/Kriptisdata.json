@@ -335,5 +335,18 @@
   "li4": "Y algo mas!",
   "li5": "Nuevo",
   "li6": "Gratis"
+},{
+  "nombre": "Lucky Blocks Script",
+  "juegofecha": "Lucky Blocks - 19/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/LuckyBlocksScript",
+  "mini": "https://cdn.discordapp.com/attachments/882941526068564028/976941937892409344/unknown.png",
+  "features": "Obten todos las armas!",
+  "txt": "https://raw.githubusercontent.com/03koios/Loader/main/Loader.lua",
+  "li1": "Lucky Blocks",
+  "li2": "Lucky Blocks",
+  "li3": "Lucky Blocks",
+  "li4": "Lucky Blocks",
+  "li5": "Lucky Blocks",
+  "li6": "Gratis"
 }    ]
   }
