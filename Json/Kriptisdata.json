@@ -323,19 +323,6 @@
         "li5": "Velocidad rapida",
         "li6": "Borra mascotas automaticamente"
       },{
-  "nombre": "SRM Hub",
-  "juegofecha": "Beatland - 19/5/2022",
-  "descarga": "https://tgxgang.xyz/scripts/SRMHub",
-  "mini": "https://cdn.discordapp.com/attachments/882941526068564028/976938961417146471/unknown.png",
-  "features": "Auto colecta monedas y letras!",
-  "txt": "https://raw.githubusercontent.com/bebedi15/SRM-Scripts/main/Bebedi9960/SRMHub",
-  "li1": "Auto Farm",
-  "li2": "Auto Collecta Monedas",
-  "li3": ".",
-  "li4": "Y algo mas!",
-  "li5": "Nuevo",
-  "li6": "Gratis"
-},{
   "nombre": "Lucky Blocks Script",
   "juegofecha": "Lucky Blocks - 19/5/2022",
   "descarga": "https://tgxgang.xyz/scripts/LuckyBlocksScript",
