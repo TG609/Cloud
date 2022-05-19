@@ -2,7 +2,7 @@
     "data": [
       {
         "nombre": "Infinite Yield",
-        "juegofecha": "Universal · 16/5/2022",
+        "juegofecha": "Universal - 16/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/InfiniteYield",
         "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972186796400209930/unknown.png",
         "features": "Te permite ejecutar muchisimos comandos, como fly, etc!",
@@ -17,7 +17,7 @@
 
       {
         "nombre": "Dark Hub",
-        "juegofecha": "Universal · 16/5/2022",
+        "juegofecha": "Universal - 16/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/Darkhub",
         "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972186714196033546/unknown.png",
         "features": "Aimbot + Esp!",
@@ -31,7 +31,7 @@
       },
       {
         "nombre": "Owl Hub",
-        "juegofecha": "Universal · 16/5/2022",
+        "juegofecha": "Universal - 16/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/OwlHub",
         "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972187099723857950/unknown.png",
         "features": "Aimbot + Esp!",
@@ -45,7 +45,7 @@
       },
       {
         "nombre": "Autorob",
-        "juegofecha": "Jailbreak · 16/5/2022",
+        "juegofecha": "Jailbreak - 16/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/JailbreakAutorob",
         "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972358115515314207/unknown.png",
         "features": "Autorob muy efectivo para Jailbreak!",
@@ -59,10 +59,10 @@
       },
       {
         "nombre": "Faze Ware",
-        "juegofecha": "Da Hood · 16/5/2022",
+        "juegofecha": "Da Hood - 16/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/FazeWare",
         "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972566089236095016/unknown.png",
-        "features": "imlock y mucho más para Da Hood!",
+        "features": "imlock y mucho mas para Da Hood!",
         "txt": "https://cdn.y2k06.xyz/lua/FazeWare.lua",
         "li1": "AImlock",
         "li2": "Silent Aim",
@@ -73,7 +73,7 @@
       },
       {
         "nombre": "Up Right Hub",
-        "juegofecha": "Build A Boat · 16/5/2022",
+        "juegofecha": "Build A Boat - 16/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/UpRightHub",
         "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972566680414871623/unknown.png",
         "features": "Autofarm y varias opciones!",
@@ -82,12 +82,12 @@
         "li2": "Varias opciones",
         "li3": "Facil de usar",
         "li4": "Actualizado",
-        "li5": "Sirve para más juegos",
+        "li5": "Sirve para mas juegos",
         "li6": "Gratis"
       },
       {
         "nombre": "IceHub",
-        "juegofecha": "Brookhaven · 18/5/2022",
+        "juegofecha": "Brookhaven - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/IceHub",
         "mini": "https://cdn.discordapp.com/attachments/882941526068564028/972569267725811752/unknown.png",
         "features": "Diviertete molestando a los jugadores!",
@@ -101,21 +101,21 @@
       },
       {
         "nombre": "Flooded v2",
-        "juegofecha": "Flood Escape Clasic · 18/5/2022",
+        "juegofecha": "Flood Escape Clasic - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/Floodedv2",
         "mini": "https://cdn.discordapp.com/attachments/882941526068564028/972570293178601522/unknown.png",
-        "features": "Autofarm y poco más!",
+        "features": "Autofarm y poco mas!",
         "txt": "https://cdn.y2k06.xyz/lua/FloodedV2.lua",
         "li1": "Nuevo!",
         "li2": "Auto Farm",
-        "li3": "Algunas más opciones!",
+        "li3": "Algunas mas opciones!",
         "li4": "",
         "li5": "",
         "li6": "Gratis"
       },
       {
         "nombre": "CheeseyHubV6",
-        "juegofecha": "Universal · 18/5/2022",
+        "juegofecha": "Universal - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/CheeseyHubV6",
         "mini": "https://cdn.discordapp.com/attachments/882941526068564028/972570568127836190/unknown.png",
         "features": "Script que sirve para varios juegos!",
@@ -129,7 +129,7 @@
       }, 
       {
         "nombre": "Master Hub",
-        "juegofecha": "Sonic Speed Simulator · 18/5/2022",
+        "juegofecha": "Sonic Speed Simulator - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/MasterHub",
         "mini": "https://cdn.discordapp.com/attachments/882941526068564028/976671541838352404/unknown.png",
         "features": "Autofarm para Sonic Speed Simulator!",
@@ -139,11 +139,11 @@
         "li3": "Unlock Tails",
         "li4": "Unlock Riders",
         "li5": "Unlock All",
-        "li6": "Auto Hatch y más!"
+        "li6": "Auto Hatch y mas!"
       },
       {
         "nombre": "Trade Tower",
-        "juegofecha": "Trade Tower · 18/5/2022",
+        "juegofecha": "Trade Tower - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/TradeTower",
         "mini": "https://cdn.discordapp.com/attachments/882941526068564028/976674496855572530/unknown.png",
         "features": "Script para autofarmear dinero en Trade Tower",
@@ -152,26 +152,26 @@
         "li2": "Money Farm",
         "li3": "Auto Tix Stock",
         "li4": "Auto Sell",
-        "li5": "Y mucho más",
+        "li5": "Y mucho mas",
         "li6": "Nuevo"
       },
       {
         "nombre": "Bedwars Script",
-        "juegofecha": "Bedwars · 18/5/2022",
+        "juegofecha": "Bedwars - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/BedwarsScript",
         "mini": "https://cdn.discordapp.com/attachments/882941526068564028/976674985764618280/unknown.png",
-        "features": "Script para bedwars con muchas opciones, kill auroa, reach, clicl tp, y mucho más!",
+        "features": "Script para bedwars con muchas opciones, kill auroa, reach, clicl tp, y mucho mas!",
         "txt": "https://pastebin.com/raw/m82H3rqL",
         "li1": "OP GUI",
         "li2": "Kill Aura",
         "li3": "Reach",
         "li4": "Click Tp",
         "li5": "Pelea Rapid",
-        "li6": "Anti void y mucho más!"
+        "li6": "Anti void y mucho mas!"
       },
       {
         "nombre": "Banana Eats Script",
-        "juegofecha": "Banana Eats · 18/5/2022",
+        "juegofecha": "Banana Eats - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/BananaEatsScript",
         "mini": "https://cdn.discordapp.com/attachments/882941526068564028/976675543640580136/unknown.png",
         "features": "Script para banana Eat con muchas opciones!",
@@ -180,26 +180,26 @@
         "li2": "Camina Rapido",
         "li3": "Comete a todos",
         "li4": "Teletransportate",
-        "li5": "Y mucho más!",
+        "li5": "Y mucho mas!",
         "li6": "Nuevo"
       },
       {
         "nombre": "Poggers Hub",
-        "juegofecha": "Arsenal · 18/5/2022",
+        "juegofecha": "Arsenal - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/PoggersHub",
         "mini": "https://cdn.discordapp.com/attachments/882941526068564028/976677316732289044/unknown.png",
-        "features": "Script de arsenal para desbloquear objetos y más!",
+        "features": "Script de arsenal para desbloquear objetos y mas!",
         "txt": "https://raw.githubusercontent.com/RealCalebB/Poggers-Hub-Test/main/Poggers%20Hub%20Test",
         "li1": "Desbloquea Skins",
         "li2": "Desbloquea Cuchillos",
         "li3": "Desbloquea Emotes",
         "li4": "Haz cosas que todos vean",
-        "li5": "Usa aimbot y más",
-        "li6": "Muchisimás opciones más!"
+        "li5": "Usa aimbot y mas",
+        "li6": "Muchisimas opciones mas!"
       },
       {
         "nombre": "Milk Hub",
-        "juegofecha": "Bot Clash! · 18/5/2022",
+        "juegofecha": "Bot Clash! - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/CumHub",
         "mini": "https://cdn.discordapp.com/attachments/882941526068564028/976678279157260299/unknown.png",
         "features": "Script que funciona para varios juegos ^^",
@@ -209,11 +209,11 @@
         "li3": "Invisible",
         "li4": "Velocidad",
         "li5": "Salto Alto",
-        "li6": "Salto infinito y mucho más!"
+        "li6": "Salto infinito y mucho mas!"
       },
       {
         "nombre": "Anti Afk",
-        "juegofecha": "Universal · 18/5/2022",
+        "juegofecha": "Universal - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/AntiAfk",
         "mini": "https://scriptblox.com/images/script_7780550-1652876713809.jpg",
         "features": "Script que te permite dejar inactivo tu partida de roblox sin que te expulsen!",
@@ -227,7 +227,7 @@
       },
       {
         "nombre": "Raise a Floppa Script",
-        "juegofecha": "Raise A Floppa · 18/5/2022",
+        "juegofecha": "Raise A Floppa - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/RaiseaFloppaScript",
         "mini": "https://scriptblox.com/images/script_9203864304-1652876488206.jpg",
         "features": "Autofarm para \"Raise a Floppa\"",
@@ -241,7 +241,7 @@
       },
       {
         "nombre": "Proxima Hub",
-        "juegofecha": "Destruction Simulator · 18/5/2022",
+        "juegofecha": "Destruction Simulator - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/ProximaHub",
         "mini": "https://tr.rbxcdn.com/604e6712476f328bda3b03ad850d1d1d/500/280/Image/Jpeg",
         "features": "Obten 100 millones de monedas y desbloquea todas las armas!",
@@ -255,7 +255,7 @@
       },
       {
         "nombre": "Auto Kill",
-        "juegofecha": "Big Paintball · 18/5/2022",
+        "juegofecha": "Big Paintball - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/AutoKillBigPaintBall",
         "mini": "https://tr.rbxcdn.com/c9124fb028d0f3ba8e6ae70fd3a1bbf8/480/270/Image/Png",
         "features": "Mata a todos los jugadores!",
@@ -269,7 +269,7 @@
       },
       {
         "nombre": "Chat Bypasser",
-        "juegofecha": "Universal · 18/5/2022",
+        "juegofecha": "Universal - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/ChatBypasser",
         "mini": "https://scriptblox.com/images/script_5942437-1652877085792.jpg",
         "features": "Di groserias y palabras prohibidas sin ser censurado!",
@@ -283,7 +283,7 @@
       },
       {
         "nombre": "Youtube Life Script",
-        "juegofecha": "Youtube Life · 18/5/2022",
+        "juegofecha": "Youtube Life - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/YoutubeLifeScript",
         "mini": "https://tr.rbxcdn.com/cc9accdabe4b2f13a962a0f4f980f163/500/280/Image/Jpeg",
         "features": "El mejor script de autofarm para \"Youtube Life\"",
@@ -297,7 +297,7 @@
       },
       {
         "nombre": "XZ Hub",
-        "juegofecha": "Spotify Island · 18/5/2022",
+        "juegofecha": "Spotify Island - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/XZHub",
         "mini": "https://scriptblox.com/images/script_9611592-1652521284292.jpg",
         "features": "Obten todas las notas y autofarm!",
@@ -305,13 +305,13 @@
         "li1": "Autofarm",
         "li2": "Obten todas las notas",
         "li3": "Facil de Usar",
-        "li4": "Y algo más!",
+        "li4": "Y algo mas!",
         "li5": "Nuevo",
         "li6": "Gratis"
       },
       {
         "nombre": "ShinyTool",
-        "juegofecha": "Tapping Legends X · 18/5/2022",
+        "juegofecha": "Tapping Legends X - 18/5/2022",
         "descarga": "https://tgxgang.xyz/scripts/ShinyTool",
         "mini": "https://scriptblox.com/images/script_8750997647-1652622189324.jpg",
         "features": "Menu con muchas opciones para Tapping Legends X!",
@@ -322,6 +322,18 @@
         "li4": "Equipa las mejores mascotas!",
         "li5": "Velocidad rapida",
         "li6": "Borra mascotas automaticamente"
-      }
-    ]
+      },{
+  "nombre": "SRM Hub",
+  "juegofecha": "Beatland - 19/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/SRMHub",
+  "mini": "https://cdn.discordapp.com/attachments/882941526068564028/976938961417146471/unknown.png",
+  "features": "Auto colecta monedas y letras!",
+  "txt": "https://raw.githubusercontent.com/bebedi15/SRM-Scripts/main/Bebedi9960/SRMHub",
+  "li1": "Auto Farm",
+  "li2": "Auto Collecta Monedas",
+  "li3": ".",
+  "li4": "Y algo mas!",
+  "li5": "Nuevo",
+  "li6": "Gratis"
+}    ]
   }
