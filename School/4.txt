@@ -1,0 +1,37 @@
+EJERCICIOS #include <stdio.h> #include <conio.h> main ()
+
+{
+
+int n1,n2,n3;
+
+system("cls"); printf("\n\nIntroduce el primer numero: "); scanf("%d",&n1);
+
+printf("Introduce el segundo numero: ");
+
+scanf("%d",&n2);
+
+printf("Introduce el tercer numero: ");
+
+scanf("%d", &n3); if ((n1>n2)&&(n1>n3))
+
+printf("%d es el mas grande\n", nl);
+
+else
+
+if (n2>n3)
+
+printf("%d es el mas grande\n",n2); else printf("%d es el mas grande\n",n3);
+
+if ((n1<n2)&&(n1<n3)) printf("%d es el menor\n",n1);
+
+else
+
+if (n2<n3)
+
+printf("%d es el menor\n",n2);
+
+else
+
+printf("%d es el menor\n",n3); getch();
+
+}
