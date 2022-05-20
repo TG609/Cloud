@@ -336,17 +336,17 @@
   "li5": "Lucky Blocks",
   "li6": "Gratis"
 },{
-  "nombre": "Clicker Simulator Script",
-  "juegofecha": "Clicker Simulator - 20/5/2022",
-  "descarga": "https://tgxgang.xyz/scripts/ClickerSimulatorScript",
-  "mini": "https://cdn.discordapp.com/attachments/882941526068564028/977109572928045087/unknown.png",
-  "features": "Autofarm, auto click y mucho mas!",
-  "txt": "https://raw.githubusercontent.com/Corrupt2625/pjv/main/Loader.lua",
-  "li1": "Autofarm",
-  "li2": "Auto Open Pets",
-  "li3": "Auto click",
-  "li4": "Teletransportate",
-  "li5": "Velocidad y salto",
-  "li6": "Y mucho mas!"
+  "nombre": "Fast Auto Farm GUI",
+  "juegofecha": "Rabbit Simulator - 20/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/FastAutoFarmGUI",
+  "mini": "https://cdn.discordapp.com/attachments/882941526068564028/977110801968152586/unknown.png",
+  "features": "Script para Rabbit Simulator!",
+  "txt": "https://cdn.y2k06.xyz/lua/Rabbit.lua",
+  "li1": "Averigualo",
+  "li2": "Averigualo",
+  "li3": "Averigualo",
+  "li4": "Averigualo",
+  "li5": "Averigualo",
+  "li6": "Averigualo"
 }    ]
   }
