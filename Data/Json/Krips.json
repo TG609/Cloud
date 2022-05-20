@@ -362,9 +362,9 @@
   "li5": "Dinero infinito",
   "li6": "Dinero infinito"
 },{
-  "nombre": "Aimbot y mÃ¡s!",
+  "nombre": "Aimbot y mÃƒÂ¡s!",
   "juegofecha": "Bedwars - 20/5/2022",
-  "descarga": "https://tgxgang.xyz/scripts/AimbotymÃ¡s!",
+  "descarga": "https://tgxgang.xyz/scripts/AimbotymÃƒÂ¡s!",
   "mini": "https://cdn.discordapp.com/attachments/882941526068564028/977115298597572618/unknown.png",
   "features": "Script con opciones para Bed Wars!",
   "txt": "https://raw.githubusercontent.com/SuperGamingBros4/Roblox-HAX/main/Updated_Totally_Original_Script_Hub.Lua",
@@ -387,5 +387,18 @@
   "li4": "Balas infinitas",
   "li5": "Sin espera",
   "li6": "Remove lasers, doors y mucho mas"
+},{
+  "nombre": "Mad City Script",
+  "juegofecha": "Mad City - 20/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/MadCityScript",
+  "mini": "https://cdn.discordapp.com/attachments/882941526068564028/977286423289933845/unknown.png",
+  "features": "El mejor script para autofarmear en Mad City!",
+  "txt": "https://raw.githubusercontent.com/weiny-ez/w-main/main/loader.lua",
+  "li1": "XP Farm",
+  "li2": "Autorob",
+  "li3": "Teletransportate",
+  "li4": "Crashea el servidor",
+  "li5": "Facil de usar",
+  "li6": "Y mucho mas!"
 }    ]
   }
