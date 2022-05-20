@@ -375,17 +375,17 @@
   "li5": "Gratis",
   "li6": "Y mucho mas"
 },{
-  "nombre": "Cart Ride GUI v1",
-  "juegofecha": "Cart Ride - 20/5/2022",
-  "descarga": "https://tgxgang.xyz/scripts/CartRideGUIv1",
-  "mini": "https://i.imgur.com/UPFal6t.jpg",
-  "features": "Script para Cart Ride con opciones divertidas",
-  "txt": "https://pastebin.com/raw/Gp5PbUmL",
-  "li1": "Ve super rapido",
-  "li2": "Ve super lento",
-  "li3": "Tira a los demas",
-  "li4": "Espia",
-  "li5": "Facil de usar",
-  "li6": "Gratis"
+  "nombre": "ChaosHubJailbreak",
+  "juegofecha": "Jailbreak - 20/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/ChaosHubJailbreak",
+  "mini": "https://i.imgur.com/ICW9eGZ.jpg",
+  "features": "Script con muchas opciones para Jailbreak!",
+  "txt": "https://raw.githubusercontent.com/xChaoticVoid/Jailbreak/main/Chaos.lua",
+  "li1": "Espia airdrops y jugadores",
+  "li2": "Camina rapido y salta alto",
+  "li3": "Nitro infinito",
+  "li4": "Balas infinitas",
+  "li5": "Sin espera",
+  "li6": "Remove lasers, doors y mucho mas"
 }    ]
   }
