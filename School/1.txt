@@ -1,0 +1,9 @@
+#include <stdio.h> /* la función main inicia la ejecución del programa */
+
+return 0; /* indica que el programa terminó con exito "/ } /* fin de la función main */
+
+/* Impresión de múltiples líneas mediante una sola instrucción printf */ #include <stdio.h> /* la función main inicia la ejecución del programa */
+
+printf("Bienvenido\na \nC!\n");
+
+return 0; /* indica que el programa terminó con éxito */ }/* fin de la función main */
