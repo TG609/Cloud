@@ -335,5 +335,19 @@
   "li4": "Lucky Blocks",
   "li5": "Lucky Blocks",
   "li6": "Gratis"
+},{
+  "nombre": "Flee The Facility GUI",
+  "juegofecha": "lee The Facility - 20/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/FleeTheFacilityGUI",
+  "mini": "https://cdn.discordapp.com/attachments/882941526068564028/977095193553694781/unknown.png",
+  "features": "Con este script ganaras siempre!",
+  "txt": "https://raw.githubusercontent.com/ohimju/ju/main/ftf.lua",
+  "li1": "Espia jugadores",
+  "li2": "Espia computadoras",
+  "li3": "Espia ventanas y puertas",
+  "li4": "Jamas perderas!",
+  "li5": "Facil de usar",
+  "li6": "Y mucho mas!"
 }    ]
   }
+
