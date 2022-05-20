@@ -336,17 +336,17 @@
   "li5": "Lucky Blocks",
   "li6": "Gratis"
 },{
-  "nombre": "Flee The Facility GUI",
-  "juegofecha": "lee The Facility - 20/5/2022",
-  "descarga": "https://tgxgang.xyz/scripts/FleeTheFacilityGUI",
-  "mini": "https://cdn.discordapp.com/attachments/882941526068564028/977095193553694781/unknown.png",
-  "features": "Con este script ganaras siempre!",
-  "txt": "https://raw.githubusercontent.com/ohimju/ju/main/ftf.lua",
-  "li1": "Espia jugadores",
-  "li2": "Espia computadoras",
-  "li3": "Espia ventanas y puertas",
-  "li4": "Jamas perderas!",
-  "li5": "Facil de usar",
+  "nombre": "Clicker Simulator Script",
+  "juegofecha": "Clicker Simulator - 20/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/ClickerSimulatorScript",
+  "mini": "https://cdn.discordapp.com/attachments/882941526068564028/977109572928045087/unknown.png",
+  "features": "Autofarm, auto click y mucho mas!",
+  "txt": "https://raw.githubusercontent.com/Corrupt2625/pjv/main/Loader.lua",
+  "li1": "Autofarm",
+  "li2": "Auto Open Pets",
+  "li3": "Auto click",
+  "li4": "Teletransportate",
+  "li5": "Velocidad y salto",
   "li6": "Y mucho mas!"
 }    ]
   }
