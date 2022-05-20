@@ -362,9 +362,9 @@
   "li5": "Dinero infinito",
   "li6": "Dinero infinito"
 },{
-  "nombre": "Aimbot y mÃƒÂ¡s!",
+  "nombre": "Aimbot y mÃƒÆ’Ã‚Â¡s!",
   "juegofecha": "Bedwars - 20/5/2022",
-  "descarga": "https://tgxgang.xyz/scripts/AimbotymÃƒÂ¡s!",
+  "descarga": "https://tgxgang.xyz/scripts/AimbotymÃƒÆ’Ã‚Â¡s!",
   "mini": "https://cdn.discordapp.com/attachments/882941526068564028/977115298597572618/unknown.png",
   "features": "Script con opciones para Bed Wars!",
   "txt": "https://raw.githubusercontent.com/SuperGamingBros4/Roblox-HAX/main/Updated_Totally_Original_Script_Hub.Lua",
@@ -400,5 +400,18 @@
   "li4": "Crashea el servidor",
   "li5": "Facil de usar",
   "li6": "Y mucho mas!"
+},{
+  "nombre": "CMD X",
+  "juegofecha": "Universal - 20/5/2022",
+  "descarga": "https://tgxgang.xyz/scripts/CMDX",
+  "mini": "https://cdn.discordapp.com/attachments/882941526068564028/977287900830003200/unknown.png",
+  "features": "Script con comandos de admin para todos los juegos!",
+  "txt": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source",
+  "li1": "Universal",
+  "li2": "Fe Scripts",
+  "li3": "Molesta a los demas",
+  "li4": "Facil de usar",
+  "li5": "Actualizaciones constantes",
+  "li6": "Gratis!"
 }    ]
   }
