@@ -95,8 +95,8 @@
       "li1": "Fe Script",
       "li2": "Molesta a todos los Jugadores",
       "li3": "Facil de Usar",
-      "li4": "",
-      "li5": "",
+      "li4": ".",
+      "li5": ".",
       "li6": "Gratis"
     },
     {
@@ -109,8 +109,8 @@
       "li1": "Nuevo!",
       "li2": "Auto Farm",
       "li3": "Algunas mas opciones!",
-      "li4": "",
-      "li5": "",
+      "li4": ".",
+      "li5": ".",
       "li6": "Gratis"
     },
     {
@@ -248,10 +248,10 @@
       "txt": "https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua",
       "li1": "Obten 100 millones de monedas",
       "li2": "Desbloquea todas las armas",
-      "li3": "",
-      "li4": "",
-      "li5": "",
-      "li6": ""
+      "li3": ".",
+      "li4": ".",
+      "li5": ".",
+      "li6": "."
     },
     {
       "nombre": "Auto Kill",
@@ -261,11 +261,11 @@
       "features": "Mata a todos los jugadores!",
       "txt": "https://pastebin.com/raw/hRDgwaMt",
       "li1": "Mata a todos los jugadores!",
-      "li2": "",
-      "li3": "",
-      "li4": "",
-      "li5": "",
-      "li6": ""
+      "li2": ".",
+      "li3": ".",
+      "li4": ".",
+      "li5": ".",
+      "li6": "."
     },
     {
       "nombre": "Chat Bypasser",
@@ -279,7 +279,7 @@
       "li3": "Sin Censura",
       "li4": "Gratis",
       "li5": "Funcionando!",
-      "li6": ""
+      "li6": "."
     },
     {
       "nombre": "Youtube Life Script",
@@ -293,7 +293,7 @@
       "li3": "Funcionando",
       "li4": "El mejor",
       "li5": "Nuevo",
-      "li6": ""
+      "li6": "."
     },
     {
       "nombre": "XZ Hub",
@@ -366,9 +366,9 @@
       "li6": "Dinero infinito"
     },
     {
-      "nombre": "Aimbot y mÃƒÆ’Ã‚Â¡s!",
+      "nombre": "Aimbot y mÃƒÂ¡s!",
       "juegofecha": "Bedwars - 20/5/2022",
-      "descarga": "https://tgxgang.xyz/scripts/AimbotymÃƒÆ’Ã‚Â¡s!",
+      "descarga": "https://tgxgang.xyz/scripts/AimbotymÃƒÂ¡s!",
       "mini": "https://cdn.discordapp.com/attachments/882941526068564028/977115298597572618/unknown.png",
       "features": "Script con opciones para Bed Wars!",
       "txt": "https://raw.githubusercontent.com/SuperGamingBros4/Roblox-HAX/main/Updated_Totally_Original_Script_Hub.Lua",
@@ -406,20 +406,6 @@
       "li4": "Crashea el servidor",
       "li5": "Facil de usar",
       "li6": "Y mucho mas!"
-    },
-    {
-      "nombre": "CMD X",
-      "juegofecha": "Universal - 20/5/2022",
-      "descarga": "https://tgxgang.xyz/scripts/CMDX",
-      "mini": "https://cdn.discordapp.com/attachments/882941526068564028/977287900830003200/unknown.png",
-      "features": "Script con comandos de admin para todos los juegos!",
-      "txt": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source",
-      "li1": "Universal",
-      "li2": "Fe Scripts",
-      "li3": "Molesta a los demas",
-      "li4": "Facil de usar",
-      "li5": "Actualizaciones constantes",
-      "li6": "Gratis!"
     }
   ]
 }
